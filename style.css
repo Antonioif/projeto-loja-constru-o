@@ -1,0 +1,68 @@
+body { display:flexbox;
+    margin-top: 0px; 
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(235, 235, 241);
+    text-align: center;
+    border-style: solid;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+     }
+    #txtbuscar{
+        text-align: center;
+        float: center;
+        background-color: transparent;
+        padding-left: 5px;
+        font-style: italic;
+        font-size: 18px;
+        border: none;
+        height: 32px;
+        width: 260px;
+        top: 20px;
+    }
+
+.logo{ text-align: left; background-color: rgb(118, 189, 56); height: 300px; width: 500px; position: absolute; top: 10px; left: 0px;}
+#menu-opções{
+    text-align: left;}
+#carrinho{
+    background-color: red; position: absolute;margin-bottom: 10px; margin-top: -20px;margin-right: -30px; right: 0 px;left: 1020px;bottom:1000px; font-style: normal;top: 5px;
+    font-size: 14px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    text-align: center; width: 300px;
+    height: 1000px;
+right: 20px;}
+#loja {text-align: left;}
+ul li{
+    display: block;left: 20px;
+}
+h1{
+    text-align: left;margin-top: -72px;} h3{text-align:left;left: 60px;}
+    .painel{
+        margin-top: 20px;
+        margin: 10px 0;
+        padding:10px;
+        width:445px;
+    }
+    .destaques{height:1000px;
+    background-color: chartreuse;position: absolute; padding-left: 20px;padding-top: -40px;padding: 40px;
+    }
+.conteiner-paineis{
+    text-align: center;
+    background-color: green;
+    display:grid;
+    }
+    
+#cimento{ margin-left: 20px; text-align: left; margin-top: 20px; }
+#alvenaria{ text-align:center; top: 0px;margin-top: 20px;top: 20px;position: absolute; }
+#carrinho{
+
+}
+           
+    
